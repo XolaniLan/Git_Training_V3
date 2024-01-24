@@ -1,1 +1,4 @@
 This is a text file.
+
+And this is another commit form local machine.
+
